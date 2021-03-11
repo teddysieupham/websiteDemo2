@@ -49,7 +49,7 @@ img {
 }
 /*----------------------------------------header-styles---------------------------------------*/
 #header {
-	background-color: #D776F5;
+	background-color: #3EDCF7;
 	margin: 0;
 	padding: 0;
 	position: relative;
@@ -249,7 +249,7 @@ img {
 	width: 560px;
 }
 #body.home div.body div div p {
-	color: #EB4786;
+	color: #E32A62;
 	display: block;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
@@ -1003,7 +1003,7 @@ img {
 	width: 202px;
 }
 #body div.footer .section p {
-	color: #F5E84C;
+	color: #EB4786;
 	display: block;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
@@ -1020,7 +1020,7 @@ img {
 }
 /*----------------------------------------footer-styles---------------------------------------*/
 #footer {
-	background-color: #DE43CA;
+	background-color: #5935D4;
 	margin: 0;
 	padding: 0;
 	width: 100%;

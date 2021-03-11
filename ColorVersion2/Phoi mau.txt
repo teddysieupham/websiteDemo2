@@ -1,7 +1,7 @@
-version 1 : các màu lựa chọn  
-header : #D776F5 ; 
+version 2 : các màu lựa chọn  
+header : #3EDCF7 ; 
 color : #F5E84C ; 
-footer color : #DE43CA;
+footer color : #5935D4;
 
 các màu sắc ban đầu của trang web mà nhóm lựa chọn là :
 
