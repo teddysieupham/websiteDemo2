@@ -1,0 +1,10 @@
+version 2 : các màu lựa chọn  
+header : #3EDCF7 ; 
+color : #F5E84C ; 
+footer color : #5935D4;
+
+các màu sắc ban đầu của trang web mà nhóm lựa chọn là :
+
+header : #eeebec
+color : #7a6666
+footer color : #cb3362

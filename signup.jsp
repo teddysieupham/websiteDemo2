@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <link rel="stylesheet" href="../main/webapp/vendor/lib/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../main/webapp/vendor/css/styles.css">
+    <link rel="stylesheet" href="/demowebiste/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/main/webapp/vendor/css/styles.css">
     <link rel="stylesheet" href="../main/webapp/vendor/css/login.css">
 </head>
 <body>
@@ -46,6 +46,7 @@
         <div>
             <input class="btn-login btn btn-warning btn-block font-weight-bolder" type="submit" value="Sign up">
         </div>
+        
   
 </div>
 
