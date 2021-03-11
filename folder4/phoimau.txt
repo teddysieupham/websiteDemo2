@@ -1,0 +1,3 @@
+pink:        #cb3362 -> blue:#333dcb
+light purple:#7A6666 -> purple:#30031b
+yellow:#c8c10d -> red:#f73c63

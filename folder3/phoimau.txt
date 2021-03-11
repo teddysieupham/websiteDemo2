@@ -1,0 +1,3 @@
+pink:        #cb3362 -> purple:#461223
+light purple:#7A6666 -> green:#72db91
+yellow:#c8c10d -> orange :#df7f12
