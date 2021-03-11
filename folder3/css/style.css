@@ -261,7 +261,7 @@ img {
 	width: 560px;
 }
 #body.home div.body div div p a {
-	color: #7a6666;
+	color: #6a7a66;
 	display: block;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
@@ -414,7 +414,7 @@ img {
 	width: 169px;
 }
 #body div.footer div h1 {
-	color: #CB3362;
+	color: #461223;
 	font-family: lato-regular-webfont;
 	font-size: 24px;
 	font-weight: normal;
@@ -425,7 +425,7 @@ img {
 	text-transform: uppercase;
 }
 #body div.footer div p, #body div.footer div span {
-	color: #7A6666;
+	color: #72db91;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
 	font-weight: normal;
@@ -440,7 +440,7 @@ img {
 	padding: 0;
 }
 #body div.footer div p a {
-	color: #7a6666;
+	color: #72db91;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
 	font-weight: normal;
@@ -450,7 +450,7 @@ img {
 	text-decoration: underline;
 }
 #body div.footer div p a:hover, #body div ul li p a:hover, #body div.blog .featured ul li div p a:hover, #body div.blog .sidebar p a:hover, #body div.blog .featured p a:hover, #body.contact div.body div div p a:hover {
-	color: #c8c10d;
+	color: #df7f12;
 }
 #body div {
 	margin: 0 auto;
